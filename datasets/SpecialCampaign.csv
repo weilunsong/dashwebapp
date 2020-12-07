@@ -1,0 +1,126 @@
+TaskID,TaskName,resource_type,SectionID,Section_Name,OEM,Completed,Project_Name
+1199393587575054,Sign then Drive Incentive - Tiguan NER Ohio Campaign,task,1198733209080810,Creative Development,Co-Op Approved,True,OHIO Sign then Drive Campaign
+1198733212598252,Confirm Creative Assets with Campaign Teams,task,1198733209080810,Creative Development,,True,OHIO Sign then Drive Campaign
+1198733212601501,Creative Approval from Brand,task,1198733209080810,Creative Development,,True,OHIO Sign then Drive Campaign
+1198733212604802,Creative Approval from Compliance ,task,1198733209080810,Creative Development,Co-Op Approved,True,OHIO Sign then Drive Campaign
+1199246561046103,Add Disclaimers to Motion Ads,task,1198733209080810,Creative Development,Account QC,True,OHIO Sign then Drive Campaign
+1199246561046105,Add Disclaimers to Canvas ,task,1198733209080810,Creative Development,Account QC,True,OHIO Sign then Drive Campaign
+1199246561046107,Add Disclaimers to Carousel,task,1198733209080810,Creative Development,Account QC,True,OHIO Sign then Drive Campaign
+1199405493525504,Package Build - OHIO Sign then Drive,task,1198733209080810,Creative Development,Co-Op Approved,True,OHIO Sign then Drive Campaign
+1198841739269244,Billing Packages Created,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198841739273418,Billing Packages Added to Billing Calc,task,1198733209080812,Campaign Setup,Account QC,True,OHIO Sign then Drive Campaign
+1198841739276637,Send Billing Email,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198841739284028,Confirm Campaign Strategy ,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198841739288408,Share Campaign Strategy with Campaign Teams,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198733212566872,Send UTMs to Campaign Team,task,1198733209080812,Campaign Setup,,False,OHIO Sign then Drive Campaign
+1198733212574181,Receive Billing Codes,task,1198733209080812,Campaign Setup,,False,OHIO Sign then Drive Campaign
+1198733212582558,Confirm Onboarding Section,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198733212583684,Make Import Onboarding Template,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1198733212588941,Add stores in V2,task,1198733209080812,Campaign Setup,,True,OHIO Sign then Drive Campaign
+1199402529353493,Facebook Access - Sunset VW - Sent ,task,1198733209080818,Onboarding,Client Review,True,OHIO Sign then Drive Campaign
+1198733209080821,Initiate Client Onboarding,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198733209080826,Welcome Emails,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198733209080831,Facebook Access- Volkswagen of Boardman- confirmed,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199364928057602,Facebook Access- Volkswagen of Wooster- confirmed,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199364928057600,Facebook Access- Ganley Volkswagen of Bedford- sent,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199364928057604,Facebook Access- Ganley Westside VW- APPROVED,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199363012229506,Facebook Access- MAG VW of Dublin- approved,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199363012229508,Facebook Access- Kempthorn VW- confirmed,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198697800757571,Add Facebook Page to Business Asset Groups,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198697800767983,Add Client to Airtable,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800780918,Ad Account Creation + Setup,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800791410,Add Ad Account and Offline Events to Business Asset Groups,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800792682,Accept Oracle Audiences Request,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800802145,Setup Feed - Full Campaign Audit,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198697800810502,Generate FB Pixel,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800818817,Add Pixel to Business Asset Groups,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1198697800831501,Setup Catalog,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198733212376317,GTM Container - audit,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198733212388042,QC GTM Container - see comments,task,1198733209080818,Onboarding,,False,OHIO Sign then Drive Campaign
+1198733212393438,Goals in Analytics 4-11,task,1198733209080818,Onboarding,Account Development,True,OHIO Sign then Drive Campaign
+1199402093737885,Goals in Analytics 24 - 26,task,1198733209080818,Onboarding,Ops Validate,True,OHIO Sign then Drive Campaign
+1198733212408250,QC Goals in Analytics,task,1198733209080818,Onboarding,,False,OHIO Sign then Drive Campaign
+1198733212424138,Add URLs to Tracker - Paola,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199394439147222,Add URLs to Tracker - Courtney,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198733212437582,Add Clients to Looker,task,1198733209080818,Onboarding,,False,OHIO Sign then Drive Campaign
+1198733212445922,Send Metrics Dashboard/Ad Previews,task,1198733209080818,Onboarding,,False,OHIO Sign then Drive Campaign
+1198733212451437,Display V2 development ,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198841739243965,Ready to Assign out Social Build,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1198841739257622,Ready to Assign out SEM Build,task,1198733209080818,Onboarding,,True,OHIO Sign then Drive Campaign
+1199392774864859,Fill/QC GTMs,task,1198733209080818,Onboarding,Ops Validate,True,OHIO Sign then Drive Campaign
+1199392774864863,Fill/QC GTMs - Help with VIN,task,1198733209080818,Onboarding,Ops Validate,True,OHIO Sign then Drive Campaign
+1199402854837062,Goals in Analytics 12 - 20,task,1198733209080818,Onboarding,Ops Validate,True,OHIO Sign then Drive Campaign
+1199506435366150,Volkswagen of Streetsboro,task,1198733209080814,Social Build,Launch,True,OHIO Sign then Drive Campaign
+1199506435366152,Ganley Westside Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366154,Sunset Motors Incorp,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366156,Beechmont Volkswagen,task,1198733209080814,Social Build,Campaign Edits,True,OHIO Sign then Drive Campaign
+1199506435366158,Volkswagen of Akron,task,1198733209080814,Social Build,Campaign QC,True,OHIO Sign then Drive Campaign
+1199506435366160,Ganley Volkswagen of Bedford,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366162,Joseph Volkswagen of Cincinnati,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366164,Brunswick Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366166,Volkswagen of Boardman,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366168,Volkswagen of Wooster,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366170,Evans Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366172,Kings Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366174,Eastside Volkswagen - QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366176,Classic Volkswagen - QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366178,White-Allen Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366180,MAG Volkswagen of Dublin- QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366182,Spitzer Volkswagen,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366184,Kempthorn Volkswagen- QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366186,"Bill Marine Auto Center, Inc.",task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366188,Volkswagen of Perrysburg,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366190,Byers Volkswagen- QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366192,Fairfield Volkswagen- QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199506435366194,Kerry Volkswagen- QCed,task,1198733209080814,Social Build,Ready to Launch,True,OHIO Sign then Drive Campaign
+1199529293197055,Ganley VW Bedford - PAUSED AWAITING WORD,task,1198733209080814,Social Build,Account Development,False,OHIO Sign then Drive Campaign
+1199528224430009,Please QC all Accounts at a Campaign Level ,task,1198733209080814,Social Build,Account QC,True,OHIO Sign then Drive Campaign
+1198737121347179,Confirm Creative Assets with Campaign Teams,task,1198845931992595,Creative Development,,True,I-PACE December 2020
+1198737121375503,Creative Approval from Brand,task,1198845931992595,Creative Development,,True,I-PACE December 2020
+1198845933773924,Creative Approval from Compliance ,task,1198845931992595,Creative Development,,False,I-PACE December 2020
+1199352107687294,I-PACE Dec 2020 Pre-App Build (waiting on incentive) ,task,1198845931992595,Creative Development,Co-Op Approved,True,I-PACE December 2020
+1199515659386926,Incentive with Charger,task,1198845931992595,Creative Development,,True,I-PACE December 2020
+1198701824911819,Billing Packages Created,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198701824936969,Billing Packages Added to Billing Calc,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198701824963034,Send Billing Email - December I-PACE,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198701824972760,Confirm Campaign Strategy  - IPACE December 2020,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198701824990460,Share Campaign Strategy with Campaign Teams,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198737121162416,Send UTMs to Campaign Team,task,1198845931992597,Campaign Setup,,False,I-PACE December 2020
+1198737121206614,Receive Billing Codes,task,1198845931992597,Campaign Setup,,False,I-PACE December 2020
+1198737121223413,Confirm Onboarding Section,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198737121301825,Make Import Onboarding Template,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198737121316644,Add stores in V2,task,1198845931992597,Campaign Setup,,True,I-PACE December 2020
+1198845931992606,Initiate Client Onboarding,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198845931992611,Welcome Emails - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198845932447421,Facebook Access - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824474239,Add Facebook Page to Business Asset Groups - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824499506,Add Client to Airtable - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824518571,Ad Account Creation + Setup - Full Audi,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824540508,Add Ad Account and Offline Events to Business Asset Groups - Full Audi,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824554110,Accept Oracle Audiences Request - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198701824581210,Setup Feed - Full Audit All Clients,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120708342,Generate FB Pixel - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120731367,Add Pixel to Business Asset Groups. - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120742790,Setup Catalog - Full Audit all clients,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120763698,GTM Container - Full Audit (Send Cole European),task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120774193,QC GTM Container - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120782734,Goals in Analytics - Full Audit,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120795485,QC Goals in Analytics,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120812253,Add URLs to Tracker - done,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198737120822819,Add Client to Looker - Full Client Audit!,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198845933221069,Send Metrics Dashboard,task,1198845931992603,I-PACE Onboarding - Full Audit,,False,I-PACE December 2020
+1198845933250264,Display V2 development ,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198845933271240,Ready to Assign out Social Build,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1198845933293139,Ready to Assign out SEM Build,task,1198845931992603,I-PACE Onboarding - Full Audit,,True,I-PACE December 2020
+1199515659386847,Social Package Build,task,1198845931992599,Social Build,Account QC,True,I-PACE December 2020
+1199352107687249,Jaguar Livermore,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687251,Jaguar Rancho Mirage,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687253,Jaguar Anaheim Hills,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687255,Cole European,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687257,Jaguar Stevens Creek,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687259,Jaguar Riverside,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687261,Rusnak / Pasadena,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687263,Jaguar South Bay,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687265,Haron Jaguar,task,1198845931992599,Social Build,Ready to Launch,True,I-PACE December 2020
+1199352107687267,Jaguar Carlsbad,task,1198845931992599,Social Build,Launch,True,I-PACE December 2020
+1199352107687269,Jaguar San Diego,task,1198845931992599,Social Build,Launch,True,I-PACE December 2020

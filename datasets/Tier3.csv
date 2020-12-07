@@ -1,0 +1,442 @@
+TaskID,TaskName,resource_type,SectionID,SectionName,OEM,Completed,Project_Name
+1198700174066952,Review OEM (Volkswagen) Site + Check Dropbox,task,1199344102954864,Audit,Volkswagen,True,December National Incentives
+1198735534903993,Review OEM (Volvo) Site + Check Dropbox,task,1199344102954864,Audit,Volvo,True,December National Incentives
+1198735537912688,Review OEM (Toyota) Site + Check Dropbox,task,1199344102954864,Audit,Toyota,True,December National Incentives
+1198700177470473,Review OEM (Subaru) Site + Check Dropbox,task,1199344102954864,Audit,Subaru,True,December National Incentives
+1198700175927459,Review OEM (Porsche) Site + Check Dropbox,task,1199344102954864,Audit,Porsche,True,December National Incentives
+1198700177266772,Review OEM (Nissan) Site + Check Dropbox,task,1199344102954864,Audit,Nissan,True,December National Incentives
+1198700176757498,Review OEM (MINI) Site + Check Dropbox,task,1199344102954864,Audit,MINI,True,December National Incentives
+1198700174445799,Review OEM (Mercedes) Site + Check Dropbox,task,1199344102954864,Audit,Mercedes,True,December National Incentives
+1198700175386202,Review OEM (Mazda) Site + Check Dropbox,task,1199344102954864,Audit,Mazda,True,December National Incentives
+1198700176429411,Review OEM (Lincoln) Site + Check Dropbox,task,1199344102954864,Audit,Lincoln,True,December National Incentives
+1198844209305669,Review OEM (Lexus) Site + Check Dropbox,task,1199344102954864,Audit,Lexus,True,December National Incentives
+1198844217624224,Review OEM (Land Rover) Site + Check Dropbox,task,1199344102954864,Audit,Land Rover,True,December National Incentives
+1198735536963513,Review OEM (Kia) Site + Check Dropbox,task,1199344102954864,Audit,Kia,True,December National Incentives
+1198700175996712,Review OEM (Jaguar) Site + Check Dropbox,task,1199344102954864,Audit,Jaguar,True,December National Incentives
+1198844216444408,Review OEM (Hyundai) Site + Check Dropbox,task,1199344102954864,Audit,Hyundai,True,December National Incentives
+1198700170110426,Review OEM (Honda) Site + Check Dropbox,task,1199344102954864,Audit,Honda,True,December National Incentives
+1198700175882467,Review OEM (Genesis) Site + Check Dropbox,task,1199344102954864,Audit,Genesis,True,December National Incentives
+1198735536155048,Review OEM (Ford) Site + Check Dropbox,task,1199344102954864,Audit,Ford,True,December National Incentives
+1198700175454365,Review OEM (Chevrolet) Site + Check Dropbox,task,1199344102954864,Audit,Chevrolet,True,December National Incentives
+1198844213385565,Review OEM (CDJRF) Site + Check Dropbox,task,1199344102954864,Audit,CDJRF,True,December National Incentives
+1198700174235948,Review OEM (Cadillac) Site + Check Dropbox,task,1199344102954864,Audit,Cadillac,True,December National Incentives
+1198844216325364,Review OEM (Buick GMC) Site + Check Dropbox,task,1199344102954864,Audit,Buick GMC,True,December National Incentives
+1198700174796612,Review OEM (BMW) Site + Check Dropbox,task,1199344102954864,Audit,BMW,True,December National Incentives
+1198735531127707,Review OEM (Audi) Site + Check Dropbox,task,1199344102954864,Audit,Audi,True,December National Incentives
+1198735535531519,Review OEM (Acura) Site + Check Dropbox,task,1199344102954864,Audit,Acura,True,December National Incentives
+1199515659380840,TEMPLATE Generic Sales Event MO,task,1199344102954865,Creative Updates,,False,December National Incentives
+1199516382830165,TEMPLATE OEM Incentive MO,task,1199344102954865,Creative Updates,,False,December National Incentives
+1199515659380864,Ford Generic Sales Event MO ,task,1199344102954865,Creative Updates,Ford,False,December National Incentives
+1199515659380858,Kia Generic Sales Event MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Kia,False,December National Incentives
+1199515659380862,Lexus Generic Sales Event MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Lexus,False,December National Incentives
+1199515526835979,Volvo OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Volvo,False,December National Incentives
+1199516382830169,Buick GMC OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Buick GMC,False,December National Incentives
+1199515526835989,Subaru OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Subaru,False,December National Incentives
+1199515526835991,Volkswagen OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Volkswagen,False,December National Incentives
+1199515526835987,Toyota OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Toyota,False,December National Incentives
+1199516084497438,Hyundai OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Hyundai,False,December National Incentives
+1199516084497449,CDJRF OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,CDJRF,False,December National Incentives
+1199516382830158,Chevrolet OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Chevrolet,False,December National Incentives
+1199516084497441,Cadillac Generic Sales Event MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Cadillac,False,December National Incentives
+1199518801851710,Mercedes Generic Sales Event MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Mercedes,False,December National Incentives
+1199515659380841,Honda OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Honda,False,December National Incentives
+1199518801862710,Mazda OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Mazda,False,December National Incentives
+1199518801862712,Nissan OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Mazda,False,December National Incentives
+1199517241162205,BMW OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,BMW,False,December National Incentives
+1199518044676389,Audi OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Audi,False,December National Incentives
+1199516742522753,Acura OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,Acura,False,December National Incentives
+1199518464283981,MINI OEM Incentive MO - QC & Ad Library Assignment,task,1199344102954865,Creative Updates,MINI,False,December National Incentives
+1198700221615942,Volkswagen Ad Library Build,task,1199344102954866,Ad Library Build,Volkswagen,False,December National Incentives
+1198844243710740,Volvo Ad Library Build,task,1199344102954866,Ad Library Build,Volvo,False,December National Incentives
+1198844263048097,Toyota Ad Library Build,task,1199344102954866,Ad Library Build,Toyota,False,December National Incentives
+1198700223793959,Subaru Ad Library Build,task,1199344102954866,Ad Library Build,Subaru,False,December National Incentives
+1198700219138036,Porsche Ad Library Build,task,1199344102954866,Ad Library Build,Porsche,False,December National Incentives
+1198844265816012,Nissan Ad Library Build,task,1199344102954866,Ad Library Build,Nissan,False,December National Incentives
+1198700220494600,MINI Ad Library Build,task,1199344102954866,Ad Library Build,MINI,False,December National Incentives
+1198700220630020,Mercedes Ad Library Build,task,1199344102954866,Ad Library Build,Mercedes,False,December National Incentives
+1198844266559284,Mazda Ad Library Build,task,1199344102954866,Ad Library Build,Mazda,False,December National Incentives
+1198700223193522,Lincoln Ad Library Build,task,1199344102954866,Ad Library Build,Lincoln,False,December National Incentives
+1198844266384387,Lexus Ad Library Build,task,1199344102954866,Ad Library Build,Lexus,False,December National Incentives
+1198735578557268,Land Rover Ad Library Build,task,1199344102954866,Ad Library Build,Land Rover,False,December National Incentives
+1198735582255474,Kia Ad Library Build,task,1199344102954866,Ad Library Build,Kia,False,December National Incentives
+1198735582185995,Jaguar Ad Library Build,task,1199344102954866,Ad Library Build,Jaguar,False,December National Incentives
+1198735580317789,Hyundai Ad Library Build,task,1199344102954866,Ad Library Build,Hyundai,False,December National Incentives
+1198844263767604,Honda Ad Library Build,task,1199344102954866,Ad Library Build,Honda,False,December National Incentives
+1198700221195155,Genesis Ad Library Build,task,1199344102954866,Ad Library Build,Genesis,False,December National Incentives
+1198844261409770,Ford Ad Library Build,task,1199344102954866,Ad Library Build,Ford,False,December National Incentives
+1198700222042999,Chevrolet Ad Library Build,task,1199344102954866,Ad Library Build,Chevrolet,False,December National Incentives
+1198844263472276,CDJRF Ad Library Build,task,1199344102954866,Ad Library Build,CDJRF,False,December National Incentives
+1198700217522594,Cadillac Ad Library Build,task,1199344102954866,Ad Library Build,Cadillac,False,December National Incentives
+1198735573902613,Buick GMC Ad Library Build,task,1199344102954866,Ad Library Build,Buick GMC,False,December National Incentives
+1198844264852974,BMW Ad Library Build,task,1199344102954866,Ad Library Build,BMW,False,December National Incentives
+1198735581078551,Audi Ad Library Build,task,1199344102954866,Ad Library Build,Audi,False,December National Incentives
+1198844264240353,Acura Ad Library Build,task,1199344102954866,Ad Library Build,Acura,False,December National Incentives
+1198700268693843,Volkswagen Pre-Approval: Lithia VW of Medford,task,1199344102954867,Pre-Approvals,Volkswagen,False,December National Incentives
+1198735626758042,Volvo Pre-Approval: Haron Volvo,task,1199344102954867,Pre-Approvals,Volvo,False,December National Incentives
+1198735626670277,Toyota Pre-Approval: Lithia Toyota of Springfield,task,1199344102954867,Pre-Approvals,Toyota,False,December National Incentives
+1198700267533058,Subaru Pre-Approval: Subaru of Spokane (Lithia),task,1199344102954867,Pre-Approvals,Subaru,False,December National Incentives
+1198735626631766,Porsche Pre-Approval: Porsche Downtown LA,task,1199344102954867,Pre-Approvals,Porsche,False,December National Incentives
+1198700268279021,Nissan Pre-Approval: Lithia Nissan of Eugene,task,1199344102954867,Pre-Approvals,Nissan,False,December National Incentives
+1198700267533043,MINI Pre-Approval: MINI of Ramsey,task,1199344102954867,Pre-Approvals,MINI,False,December National Incentives
+1198735626510694,Mercedes Pre-Approval: Mercedes-Benz Rockville Centre,task,1199344102954867,Pre-Approvals,Mercedes,False,December National Incentives
+1198700268041961,Mazda Pre-Approval: Oak Lawn Mazda,task,1199344102954867,Pre-Approvals,Mazda,False,December National Incentives
+1198844313806695,Lincoln Pre-Approval: Lincoln,task,1199344102954867,Pre-Approvals,Lincoln,False,December National Incentives
+1198844314790099,Lexus Pre-Approval: Lexus of Roseville (Lithia),task,1199344102954867,Pre-Approvals,Lexus,False,December National Incentives
+1198844314099614,Land Rover Pre-Approval: Haron Land Rover,task,1199344102954867,Pre-Approvals,Land Rover,False,December National Incentives
+1198844312705307,Kia Pre-Approval: Liberty Kia,task,1199344102954867,Pre-Approvals,Kia,False,December National Incentives
+1198700266510679,Jaguar Pre-Approval: Jaguar Des Moines,task,1199344102954867,Pre-Approvals,Jaguar,False,December National Incentives
+1198735625913557,Hyundai Pre-Approval: Lithia Hyundai of Anchorage,task,1199344102954867,Pre-Approvals,Hyundai,False,December National Incentives
+1198700267262971,Honda Pre-Approval: Honda of Great Falls (Lithia),task,1199344102954867,Pre-Approvals,Honda,False,December National Incentives
+1198844314299517,Genesis Pre-Approval: Genesis,task,1199344102954867,Pre-Approvals,Genesis,False,December National Incentives
+1198844313783505,Ford Pre-Approval: Latham Ford (Lithia),task,1199344102954867,Pre-Approvals,Ford,False,December National Incentives
+1198735625593395,Chevrolet Pre-Approval: Chevrolet of Wasilla (Lithia),task,1199344102954867,Pre-Approvals,Chevrolet,False,December National Incentives
+1198735625510190,CDJRF Pre-Approval: Lithia Chrysler Dodge Jeep Ram FIAT of Eugene,task,1199344102954867,Pre-Approvals,CDJRF,False,December National Incentives
+1198735625441320,Cadillac Pre-Approval: Cadillac,task,1199344102954867,Pre-Approvals,Cadillac,False,December National Incentives
+1198735625150578,Buick GMC Pre-Approval: Honolulu Buick GMC Cadillac (Lithia),task,1199344102954867,Pre-Approvals,Buick GMC,False,December National Incentives
+1198844313694282,BMW Pre-Approval: BMW of Ramsey,task,1199344102954867,Pre-Approvals,BMW,False,December National Incentives
+1198700266638904,Audi Pre-Approval: Audi Danbury,task,1199344102954867,Pre-Approvals,Audi,False,December National Incentives
+1198700266524701,Acura Pre-Approval: Acura of Honolulu (Lithia),task,1199344102954867,Pre-Approvals,Acura,False,December National Incentives
+1198735709374054,Haron Volvo OEM Incentive,task,1199344102954868,Client Build,Volvo,False,December National Incentives
+1198844408051108,Wyatt Johnson VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844406782710,Wallace VW of Bristol OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735710601287,VW of Oak Lawn OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700355168758,VW of Downtown LA OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700354188985,VW of Downtown Chicago OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700355974987,VW of Asheville OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735710642710,Volkswagen of Moon Township (Day Apollo Volkswagen) OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700355057326,Volkswagen of Bellingham OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844407372172,Three County VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844408167490,Paramount Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844406366335,Nemer Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844407969933,Minuteman VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735708642682,Lithia VW of Reno OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735710066828,Lithia VW of Medford OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844407694462,Lindsay Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700354543633,Leith VW of Raleigh OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844405539284,Leith VW of Cary OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735707593928,Jack Ingram VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700354756619,Honolulu Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735708249735,Hiley VW of Huntsville OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844405797995,Hall Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700352304887,Dirito Bros Walnut Creek Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735707541016,Danbury Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735708862494,Colonial VW Feasterville PA OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198700354194188,Coastal Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844400933528,Carolina VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844405139690,Bill Jacobs VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735708282315,Autohaus Lancaster VW OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198844406044645,Archer Volkswagen OEM Incentive,task,1199344102954868,Client Build,Volkswagen,False,December National Incentives
+1198735707651130,Toyota of Downtown LA OEM Incentive,task,1199344102954868,Client Build,Toyota,False,December National Incentives
+1198735708429859,Toyota of Bennington OEM Incentive,task,1199344102954868,Client Build,Toyota,False,December National Incentives
+1198844406055593,Sansone Toyota OEM Incentive,task,1199344102954868,Client Build,Toyota,False,December National Incentives
+1198700351978118,Lithia Toyota of Springfield OEM Incentive,task,1199344102954868,Client Build,Toyota,False,December National Incentives
+1198735707522907,DCH Freehold Toyota OEM Incentive,task,1199344102954868,Client Build,Toyota,False,December National Incentives
+1198700351638031,Subaru of Spokane (Lithia) OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198700353125295,Subaru of Englewood OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198700353041003,Reno Subaru OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198735707798619,Liberty Subaru OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198735706210994,Diablo Subaru OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198844405263286,Colonial Subaru OEM Incentive,task,1199344102954868,Client Build,Subaru,False,December National Incentives
+1198844405194464,Porsche Hickory OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198735707452017,Porsche Hennessy OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198735706580029,Porsche Greensboro OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198700349121287,Porsche Fresno OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198700346506511,Porsche Englewood OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198844401443071,Porsche Downtown LA OEM Incentive,task,1199344102954868,Client Build,Porsche,False,December National Incentives
+1198735707003312,Lithia Nissan of Eugene OEM Incentive,task,1199344102954868,Client Build,Nissan,False,December National Incentives
+1198700351939797,Jack Ingram Nissan OEM Incentive,task,1199344102954868,Client Build,Nissan,False,December National Incentives
+1198844404309118,Carbone Nissan OEM Incentive,task,1199344102954868,Client Build,Nissan,False,December National Incentives
+1198844403824163,Mini of the Main Line OEM Incentive,task,1199344102954868,Client Build,MINI,False,December National Incentives
+1198735706445079,MINI of Ramsey OEM Incentive,task,1199344102954868,Client Build,MINI,False,December National Incentives
+1198735706362391,MINI of Fairfield County OEM Incentive,task,1199344102954868,Client Build,MINI,False,December National Incentives
+1198844403669239,Mercedes-Benz Rockville Centre OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198844403600562,Mercedes-Benz of San Francisco OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198735706162197,Mercedes-Benz of Oakland OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198844400470380,Mercedes-Benz of Monterey OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198700348443814,Mercedes-Benz of Massapequa OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198735705868444,Mercedes-Benz of Los Angeles OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198844400291027,Mercedes-Benz Center at Keeler Motor Car Company OEM Incentive,task,1199344102954868,Client Build,Mercedes,False,December National Incentives
+1198735704808628,Sansone Mazda OEM Incentive,task,1199344102954868,Client Build,Mazda,False,December National Incentives
+1198700349831020,Oak Lawn Mazda OEM Incentive,task,1199344102954868,Client Build,Mazda,False,December National Incentives
+1198844400948247,Hiley Mazda OEM Incentive,task,1199344102954868,Client Build,Mazda,False,December National Incentives
+1198700348757018,Hall Mazda OEM Incentive,task,1199344102954868,Client Build,Mazda,False,December National Incentives
+1198700347501035,Lexus of Roseville (Lithia) OEM Incentive,task,1199344102954868,Client Build,Lexus,False,December National Incentives
+1198700349276928,Lexus of Orange County OEM Incentive,task,1199344102954868,Client Build,Lexus,False,December National Incentives
+1198844402389227,DCH Lexus of Santa Barbara OEM Incentive,task,1199344102954868,Client Build,Lexus,False,December National Incentives
+1198700348964244,Land Rover Troy OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844401003022,Land Rover Southampton OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844402094833,Land Rover Portland OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198700348268722,Land Rover Nashville OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198735702990973,Land Rover Manhattan OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844401771829,Land Rover Las Vegas OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198735702189322,Land Rover Huntington OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844401602180,Land Rover Glen Cove OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844400058578,Land Rover Des Moines OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844401068546,Land Rover Cincinatti OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198735703994378,Land Rover Bellevue OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198844400925103,Haron Land Rover OEM Incentive,task,1199344102954868,Client Build,Land Rover,False,December National Incentives
+1198735696660364,Sansone Kia OEM Incentive,task,1199344102954868,Client Build,Kia,False,December National Incentives
+1198844400950355,Liberty Kia OEM Incentive,task,1199344102954868,Client Build,Kia,False,December National Incentives
+1198735703411713,Stevinson Imports Jaguar OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198735703401075,Jaguar Portland OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198700348422772,Jaguar Nashville OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198844400561348,Jaguar Manhattan OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198735702898336,Jaguar Las Vegas OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198700348178550,Jaguar Huntington OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198844396682315,Jaguar Glen Cove OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198844399798315,Jaguar Des Moines OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198735702955063,Jaguar Cincinnati OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198844399065005,Jaguar Bellevue OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198700347687654,Haron Jaguar OEM Incentive,task,1199344102954868,Client Build,Jaguar,False,December National Incentives
+1198735702472907,Sansone Hyundai OEM Incentive,task,1199344102954868,Client Build,Hyundai,False,December National Incentives
+1198700347472435,Lithia Hyundai of Anchorage OEM Incentive,task,1199344102954868,Client Build,Hyundai,False,December National Incentives
+1198735702100117,Liberty Hyundai OEM Incentive,task,1199344102954868,Client Build,Hyundai,False,December National Incentives
+1198700345715447,Bennington Hyundai OEM Incentive,task,1199344102954868,Client Build,Hyundai,False,December National Incentives
+1198700347181716,White Plains Honda OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198700346040847,The New Babylon Honda OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198844397175718,Paragon Honda OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198844398497460,Island Honda (Lithia) OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198735701943029,Honda of Salem OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198700346789711,Honda of Great Falls (Lithia) OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198844398757596,DCH Honda of Temecula OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198735700902371,Bennington Honda OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198735699948301,Atlantic Honda OEM Incentive,task,1199344102954868,Client Build,Honda,False,December National Incentives
+1198700344034279,Lithia Ford/Lincoln of Grand Forks OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198844396145311,Wyatt Johnson Ford OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198844398177256,Lithia Ford of Idaho Falls OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198844398140658,Latham Ford (Lithia) OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198700345712269,Honolulu Ford OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198700345301150,Carbone Ford of Bennington OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198700343265953,Beyer Ford OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198844397124399,Baierl Ford OEM Incentive,task,1199344102954868,Client Build,Ford,False,December National Incentives
+1198700345301128,Lithia Chevrolet of Redding OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198700342999396,Chevrolet of Wasilla (Lithia) OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198735698127592,Chevrolet of Twin Falls OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198844397003046,Camp Chevrolet Cadillac OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198735700064780,Brown Daub Chevy of Nazareth OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198700345249704,All American Chevrolet of Killeen OEM Incentive,task,1199344102954868,Client Build,Chevrolet,False,December National Incentives
+1198844397073204,Lithia CDJRF Eureka OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198735700262347,Lithia CDJR of Twin Falls OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198844396818718,Lithia CDJR of Helena OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198735698494827,CDJR of Pocatello (Lithia) OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198700343798160,CDJR/Fiat of Manhattan OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198735698945955,Beyer CDJR OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198735698148687,Sansone JCDR OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198700341645007,Lithia CJDR of Klamath Falls OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198735696084560,Lithia CJD of Grand Forks OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198844396035268,Lithia Chrysler Jeep of Reno OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198700344082171,Lithia Chrysler Dodge Jeep Ram FIAT of Santa Rosa OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198844394818678,Lithia Chrysler Dodge Jeep Ram FIAT of Eugene OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198700342377768,CDJR of Calallen OEM Incentive,task,1199344102954868,Client Build,CDJRF,False,December National Incentives
+1198700343719370,Honolulu Buick GMC Cadillac (Lithia) OEM Incentive,task,1199344102954868,Client Build,Buick GMC,False,December National Incentives
+1198844395531441,Union Park BMW OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198844393521574,BMW Seattle OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198700340905477,BMW of the Hudson Valley OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198844393080412,BMW of Spokane OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198844395114539,BMW of Ramsey OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198735698573890,BMW of Freeport OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198700343132560,Bill Jacobs BMW OEM Incentive,task,1199344102954868,Client Build,BMW,False,December National Incentives
+1198844394818650,Town Audi OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198735698349417,Jack Ingram Audi OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198735698277244,Hiley Audi Huntsville OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198844394500542,Fiore Audi OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198700341831431,DCH Millburn Audi OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198844394314771,Autohaus Lancaster Audi OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198700342414852,Audi Rocklin OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198844392235111,Audi Downtown LA OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198700341530824,Audi Danbury OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198844390694791,Audi Asheville OEM Incentive,task,1199344102954868,Client Build,Audi,False,December National Incentives
+1198844393740361,Paragon Acura OEM Incentive,task,1199344102954868,Client Build,Acura,False,December National Incentives
+1198735697353475,DCH Tustin Acura OEM Incentive,task,1199344102954868,Client Build,Acura,False,December National Incentives
+1198735697327152,Acura of Honolulu (Lithia) OEM Incentive,task,1199344102954868,Client Build,Acura,False,December National Incentives
+1198700630852089,BMW Roanoke National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198700630995234,Hennessey North Atlanta Porsche National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700630377174,Tom Wood Porsche National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198844700847443,DCH Toyota of Oxnard National Lease,task,1199345369495641,V2 Asset Development,Toyota,False,December LeasePull - National
+1198844700799457,Hiley Audi Huntsville National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198844700771285,Hiley VW of Huntsville National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844700329094,DCH Millburn Audi National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198700627572952,Porsche Greensboro National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700630773120,MINI of Des Moines National Lease,task,1199345369495641,V2 Asset Development,MINI,False,December LeasePull - National
+1198735976475930,Hiley Mazda of Huntsville National Lease,task,1199345369495641,V2 Asset Development,Mazda,False,December LeasePull - National
+1198844699768261,Nemer VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198735977284308,Jeff D'Ambrosio VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198735976880017,"Colonial VW Feasterville, PA National Lease",task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700629337343,Glen Toyota National Lease,task,1199345369495641,V2 Asset Development,Toyota,False,December LeasePull - National
+1198735977645061,Babylon Honda National Lease,task,1199345369495641,V2 Asset Development,Honda,False,December LeasePull - National
+1198700630450441,"Colonial Subaru Feasterville, PA National Lease",task,1199345369495641,V2 Asset Development,Subaru,False,December LeasePull - National
+1198735976453173,Audi Rocklin National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198735976554217,Mercedes-Benz of Oakland National Lease,task,1199345369495641,V2 Asset Development,Mercedes,False,December LeasePull - National
+1198844700067747,Miller Buick GMC National Lease,task,1199345369495641,V2 Asset Development,Buick GMC,False,December LeasePull - National
+1198735977389841,Atlantic Honda National Lease,task,1199345369495641,V2 Asset Development,Honda,False,December LeasePull - National
+1198735976767104,Oak Lawn VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198735977019468,Oak Lawn Mazda National Lease,task,1199345369495641,V2 Asset Development,Mazda,False,December LeasePull - National
+1198735976172705,Porsche Hickory National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700630187512,Porsche Fresno National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198844699997811,Porsche Atlanta Perimeter National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198844699960748,Mercedes-Benz of Los Angeles National Lease,task,1199345369495641,V2 Asset Development,Mercedes,False,December LeasePull - National
+1198844699921031,Jack Ingram Porsche  National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198735977149029,Piazza Nissan (second half only) National Lease,task,1199345369495641,V2 Asset Development,Nissan,False,December LeasePull - National
+1198735975716920,Piazza Acura (second half only) National Lease,task,1199345369495641,V2 Asset Development,Acura,False,December LeasePull - National
+1198735976495055,Frema Mazda National Lease,task,1199345369495641,V2 Asset Development,Mazda,False,December LeasePull - National
+1198735975978769,Porsche Beaverton National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700628994083,BMW of Ramsey National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198735976660214,Porsche Nashua National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198735976717919,Mercedes-Benz of Monterey (Euromotors) - MBENZ National Lease,task,1199345369495641,V2 Asset Development,Mercedes,False,December LeasePull - National
+1198844698862803,Brown-Daub Chevrolet National Lease,task,1199345369495641,V2 Asset Development,Chevrolet,False,December LeasePull - National
+1198735976618157,Wasilla Chevy National Lease,task,1199345369495641,V2 Asset Development,Chevrolet,False,December LeasePull - National
+1198844697907697,VW Santa Monica  National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198735976014042,Union Park BMW National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198735976163911,Toyota Santa Monica National Lease,task,1199345369495641,V2 Asset Development,Toyota,False,December LeasePull - National
+1198700629254949,Town Audi National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198735976453132,Subaru of Englewood National Lease,task,1199345369495641,V2 Asset Development,Subaru,False,December LeasePull - National
+1198700628658528,Porsche South Bay National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198735975676464,Porsche Englewood National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198844697813550,Wyatt Johnson VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700627906639,VW of Oak Lawn National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700628040629,Lithia VW of Reno National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700627632286,Lithia VW of Medford National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844697535528,The Collection Jaguar National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198844697487691,Leith VW of Raleigh National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844696729562,Leith VW of Cary National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844697524929,Jack Ingram VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700626735094,Dirito Bros Walnut Creek Volkswagen National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844696885427,Route 4 CDJR Paramus National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198700627724570,Route 4 CDJR Englewood Cliffs National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198844697364139,Porsche Nashua National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700627606973,Coastal Volkswagen National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198700627284228,Bill Jacobs VW National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,True,December LeasePull - National
+1198735974697892,Archer Volkswagen National Lease,task,1199345369495641,V2 Asset Development,Volkswagen,False,December LeasePull - National
+1198844697184097,Sansone Toyota National Lease,task,1199345369495641,V2 Asset Development,Toyota,True,December LeasePull - National
+1198735974629467,MINI of Portland National Lease,task,1199345369495641,V2 Asset Development,MINI,False,December LeasePull - National
+1198844697138851,Porsche Hennessy National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700626950597,Porsche Downtown LA National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198700627299313,Mini of the Main Line National Lease,task,1199345369495641,V2 Asset Development,MINI,False,December LeasePull - National
+1198700626526281,MINI of Ramsey National Lease,task,1199345369495641,V2 Asset Development,MINI,False,December LeasePull - National
+1198700626928702,Lithia Nissan of Bend (Smolich Nissan) National Lease,task,1199345369495641,V2 Asset Development,Nissan,False,December LeasePull - National
+1198700627211316,Sansone Mazda National Lease,task,1199345369495641,V2 Asset Development,Mazda,True,December LeasePull - National
+1198700626338574,Oak Lawn Mazda National Lease,task,1199345369495641,V2 Asset Development,Mazda,False,December LeasePull - National
+1198844694597846,Lithia CDJR of Bend (Smolich Motors) National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198735974251997,Lexus of Orange County National Lease,task,1199345369495641,V2 Asset Development,Lexus,False,December LeasePull - National
+1198844695249776,Land Rover Troy National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198735974145070,Land Rover Southampton National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198844696605231,Land Rover Portland National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198700626504688,Land Rover Nashville National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198844696365490,Land Rover Manhattan National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198700626162869,Land Rover Las Vegas National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198700625000339,Land Rover Huntington National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198700626160725,Land Rover Solon National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198844695029796,Land Rover Glen Cove National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198844696238525,Land Rover Des Moines National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198735972594531,Haron Land Rover National Lease,task,1199345369495641,V2 Asset Development,Land Rover,False,December LeasePull - National
+1198700624979174,Stevinson Imports Jaguar National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198844696044746,Jaguar Portland National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198735973422291,Jaguar Nashville National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198700625981343,Jaguar Las Vegas National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198700626375678,Jaguar Huntington National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198844695274412,Jaguar Glen Cove National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198735972441998,Jaguar Des Moines National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198735973383801,Jaguar Cincinnati National Lease,task,1199345369495641,V2 Asset Development,Jaguar,False,December LeasePull - National
+1198844694208791,Sansone Hyundai National Lease,task,1199345369495641,V2 Asset Development,Hyundai,True,December LeasePull - National
+1198844695584404,Jack Ingram Porsche National Lease,task,1199345369495641,V2 Asset Development,Porsche,False,December LeasePull - National
+1198844694931329,Lithia Chevrolet of Redding National Lease,task,1199345369495641,V2 Asset Development,Chevrolet,False,December LeasePull - National
+1198700626049475,Chevrolet of Wasilla (Lithia) National Lease,task,1199345369495641,V2 Asset Development,Chevrolet,False,December LeasePull - National
+1198700624103588,Camp Chevrolet Cadillac National Lease,task,1199345369495641,V2 Asset Development,Chevrolet,False,December LeasePull - National
+1198735971988518,Lithia CDJR of Twin Falls National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198844695584385,CDJR of Pocatello (Lithia) National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198735972737995,CDJRF of Morgantown National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198844695274319,Lithia CJDR of Klamath Falls National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198844695106475,Lithia CJD of Grand Forks National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198700625845896,Lithia Chrysler Dodge Jeep Ram FIAT of Eugene National Lease,task,1199345369495641,V2 Asset Development,CDJRF,False,December LeasePull - National
+1198735972739332,Union Park BMW National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198700625344778,BMW Seattle National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198735972575320,BMW of Peabody National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198844695221096,BMW of Darien National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198735972565191,BMW of Spokane National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198700625606276,BMW of Freeport National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198700625124402,Bill Jacobs BMW National Lease,task,1199345369495641,V2 Asset Development,BMW,False,December LeasePull - National
+1198844693720923,Hiley Audi Huntsville National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198844694391829,Audi Rocklin National Lease,task,1199345369495641,V2 Asset Development,Audi,False,December LeasePull - National
+1198700402477386,Colonial Subaru Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198700400397775,Porsche Hennessy Dealer Lease,task,1199345482066505,V2 Asset Development,Porsche,False,December LeasePull - Dealer
+1198700401519351,Oak Lawn Mazda Dealer Lease,task,1199345482066505,V2 Asset Development,Mazda,False,December LeasePull - Dealer
+1198700400980061,Land Rover Cincinatti Dealer Lease,task,1199345482066505,V2 Asset Development,Land Rover,False,December LeasePull - Dealer
+1198844458200116,Jaguar Cincinnati Dealer Lease,task,1199345482066505,V2 Asset Development,Jaguar,False,December LeasePull - Dealer
+1198700400522929,Beyer Ford Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198735754624951,Chevrolet of Wasilla (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Chevrolet,False,December LeasePull - Dealer
+1198700401906397,Beyer CDJR Dealer Lease,task,1199345482066505,V2 Asset Development,CDJRF,False,December LeasePull - Dealer
+1198844455048096,Wallace VW of Bristol Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198735754114401,VW of Downtown Chicago Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198735755017985,Volkswagen of Moon Township (Day Apollo Volkswagen) Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198735754991267,Three County VW Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198844455379334,Subaru of South Hills Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198700399427021,Subaru of Morgantown (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198735755086631,Subaru of Moon Township Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198735755014794,Honolulu Volkswagen Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198844454860677,Sansone Nissan Dealer Lease,task,1199345482066505,V2 Asset Development,Nissan,False,December LeasePull - Dealer
+1198700401117321,Colonial VW Feasterville PA Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198844456557943,Ray Laks Honda Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198735754641812,Ray Laks Acura of Buffalo Dealer Lease,task,1199345482066505,V2 Asset Development,Acura,False,December LeasePull - Dealer
+1198735754624848,Porsche Littleton Dealer Lease,task,1199345482066505,V2 Asset Development,Porsche,False,December LeasePull - Dealer
+1198700400057636,Bill Jacobs VW Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,True,December LeasePull - Dealer
+1198735754497708,Archer Volkswagen Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198735750855580,Toyota of Bennington Dealer Lease,task,1199345482066505,V2 Asset Development,Toyota,False,December LeasePull - Dealer
+1198735752603003,Lithia Toyota of Springfield Dealer Lease,task,1199345482066505,V2 Asset Development,Toyota,False,December LeasePull - Dealer
+1198844456400400,Subaru of Spokane (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198844456337996,Liberty Subaru Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198844456246353,MINI of Portland Dealer Lease,task,1199345482066505,V2 Asset Development,MINI,False,December LeasePull - Dealer
+1198735751641887,Colonial Subaru Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198700400137676,Porsche Hickory Dealer Lease,task,1199345482066505,V2 Asset Development,Porsche,False,December LeasePull - Dealer
+1198700399784887,Porsche Hennessy Dealer Lease,task,1199345482066505,V2 Asset Development,Porsche,False,December LeasePull - Dealer
+1198700398404965,Mercedes-Benz of Beaverton Dealer Lease,task,1199345482066505,V2 Asset Development,Mercedes,False,December LeasePull - Dealer
+1198735753696558,Carbone Nissan Dealer Lease,task,1199345482066505,V2 Asset Development,Nissan,False,December LeasePull - Dealer
+1198735753322328,Lithia Subaru of Oregon City Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198700399176570,Lithia Honda Medford Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198735753475574,Mercedes-Benz of Massapequa Dealer Lease,task,1199345482066505,V2 Asset Development,Mercedes,False,December LeasePull - Dealer
+1198735753386311,Oak Lawn Mazda Dealer Lease,task,1199345482066505,V2 Asset Development,Mazda,False,December LeasePull - Dealer
+1198735753202148,Land Rover Cincinatti Dealer Lease,task,1199345482066505,V2 Asset Development,Land Rover,False,December LeasePull - Dealer
+1198735753274139,Liberty Kia Dealer Lease,task,1199345482066505,V2 Asset Development,Kia,False,December LeasePull - Dealer
+1198844455184382,Stevinson Imports Jaguar Dealer Lease,task,1199345482066505,V2 Asset Development,Jaguar,False,December LeasePull - Dealer
+1198844455141742,Jeff D'Ambrosio VW Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198735753014744,Jaguar Huntington Dealer Lease,task,1199345482066505,V2 Asset Development,Jaguar,False,December LeasePull - Dealer
+1198844454007359,Jaguar Glen Cove Dealer Lease,task,1199345482066505,V2 Asset Development,Jaguar,False,December LeasePull - Dealer
+1198700398346694,Jaguar Cincinnati Dealer Lease,task,1199345482066505,V2 Asset Development,Jaguar,False,December LeasePull - Dealer
+1198735751161440,Lithia Hyundai of Anchorage Dealer Lease,task,1199345482066505,V2 Asset Development,Hyundai,False,December LeasePull - Dealer
+1198735752722550,Liberty Hyundai Dealer Lease,task,1199345482066505,V2 Asset Development,Hyundai,False,December LeasePull - Dealer
+1198735752650455,Bennington Hyundai Dealer Lease,task,1199345482066505,V2 Asset Development,Hyundai,False,December LeasePull - Dealer
+1198844454505026,White Plains Honda Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198844454127309,Paragon Honda Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198844451566295,Island Honda (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198700398206420,Honda of Salem Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198700396314576,Honda of Great Falls (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198700397298261,DCH Honda of Temecula Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198844453708167,Bennington Honda Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198844453289005,Lithia Ford/Lincoln of Grand Forks Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198700397977539,Wyatt Johnson Ford Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198700396275655,Fiore Volkswagen Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198844452624768,Fiore Toyota Dealer Lease,task,1199345482066505,V2 Asset Development,Toyota,False,December LeasePull - Dealer
+1198844452647716,Honolulu Ford Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198735751597663,Fairway VW Dealer Lease,task,1199345482066505,V2 Asset Development,Volkswagen,False,December LeasePull - Dealer
+1198844451920503,Carbone Ford of Bennington Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198700392992103,Beyer Ford Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198844450064714,Baierl Ford Dealer Lease,task,1199345482066505,V2 Asset Development,Ford,False,December LeasePull - Dealer
+1198844450921555,Chevrolet of Wasilla (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Chevrolet,False,December LeasePull - Dealer
+1198735749000172,Chevrolet of Twin Falls Dealer Lease,task,1199345482066505,V2 Asset Development,Chevrolet,False,December LeasePull - Dealer
+1198735751027592,CDJR of Pocatello (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,CDJRF,False,December LeasePull - Dealer
+1198844452624738,CDJRF of Morgantown Dealer Lease,task,1199345482066505,V2 Asset Development,CDJRF,False,December LeasePull - Dealer
+1198735750885227,Beyer CDJR Dealer Lease,task,1199345482066505,V2 Asset Development,CDJRF,False,December LeasePull - Dealer
+1198844451834305,Lithia Chrysler Dodge Jeep Ram FIAT of Eugene Dealer Lease,task,1199345482066505,V2 Asset Development,CDJRF,False,December LeasePull - Dealer
+1198735747416520,Honolulu Buick GMC Cadillac (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Buick GMC,False,December LeasePull - Dealer
+1198844449596379,BMW of the Hudson Valley Dealer Lease,task,1199345482066505,V2 Asset Development,BMW,False,December LeasePull - Dealer
+1198700396487928,BMW of Spokane Dealer Lease,task,1199345482066505,V2 Asset Development,BMW,False,December LeasePull - Dealer
+1198844452056238,BMW of Ramsey Dealer Lease,task,1199345482066505,V2 Asset Development,BMW,False,December LeasePull - Dealer
+1198700395246690,Baierl Subaru Dealer Lease,task,1199345482066505,V2 Asset Development,Subaru,False,December LeasePull - Dealer
+1198735749811287,Baierl Honda Dealer Lease,task,1199345482066505,V2 Asset Development,Honda,False,December LeasePull - Dealer
+1198735744202030,Baierl Chevrolet (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Chevrolet,False,December LeasePull - Dealer
+1198700396043022,Baierl Acura Dealer Lease,task,1199345482066505,V2 Asset Development,Acura,False,December LeasePull - Dealer
+1198844451563951,Fiore Audi Dealer Lease,task,1199345482066505,V2 Asset Development,Audi,False,December LeasePull - Dealer
+1198844450107916,DCH Millburn Audi Dealer Lease,task,1199345482066505,V2 Asset Development,Audi,False,December LeasePull - Dealer
+1198844451362663,Audi Downtown LA Dealer Lease,task,1199345482066505,V2 Asset Development,Audi,False,December LeasePull - Dealer
+1198700393499891,Paragon Acura Dealer Lease,task,1199345482066505,V2 Asset Development,Acura,False,December LeasePull - Dealer
+1198700395739623,DCH Tustin Acura Dealer Lease,task,1199345482066505,V2 Asset Development,Acura,False,December LeasePull - Dealer
+1198735747975563,Acura of Honolulu (Lithia) Dealer Lease,task,1199345482066505,V2 Asset Development,Acura,False,December LeasePull - Dealer
